@@ -1,2 +1,1 @@
-ECHO 处于打开状态。
-haha 
+this is first line 
